@@ -1,0 +1,22 @@
+#detailsimage{
+    height: 600px;
+    width : 800px;
+    ;
+    
+}
+.card{
+width:800px;
+}
+#dtailsbutton{
+    
+    margin-top: 100px;
+}
+
+#cardtitle{
+  font-weight: bold;
+}
+#cardmoneyraise{
+    font-weight: bold;
+    font-size: 30px;
+    color: dodgerblue;
+}
